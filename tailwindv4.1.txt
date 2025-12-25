@@ -1,0 +1,1 @@
+Now I understand the issue. In TailwindCSS v4, the @theme directive is used to customize colors and settings. I also need to add proper base layer styles.
